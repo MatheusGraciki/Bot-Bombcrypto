@@ -8,5 +8,5 @@
 <p align="center"> Através dos pixeis passados por mim ao Pyautogui, ele utiliza tais  localizações para executar comandos como clicar,pressionar teclas, atualizar a pagina, entre outras coisas. </p>
 
 
-<p align="center"> Este bot não foi criado com a intenção de ser utilizado por outras pessoas, porém se você deseja utiliza-lo, futuramente disponibilizarei aqui na documetação um passo a passo para utiliza-lo </p>
+<p align="center"> Este bot não foi criado com a intenção de ser utilizado por outras pessoas, porém se você deseja utiliza-lo, futuramente disponibilizarei aqui na documetação um passo a passo de como utiliza-lo </p>
 
